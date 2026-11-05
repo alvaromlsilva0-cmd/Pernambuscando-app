@@ -288,7 +288,7 @@ def main(page: ft.Page):
                 ft.Icon(
                     ft.Icons.ACCOUNT_CIRCLE_OUTLINED,
                     color=ft.Colors.BLACK_87,
-                    size=28
+                    size=29
                 ),
             ]
         )
